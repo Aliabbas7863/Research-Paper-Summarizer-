@@ -135,35 +135,4 @@ Then, in the browser window that opens:
 
 ---
 
-## 🗺️ Roadmap
 
-- [ ] Add support for uploading custom PDF papers instead of a fixed list
-- [ ] Add streaming responses in the UI
-- [ ] Add conversational follow-up questions (multi-turn memory)
-- [ ] Deploy on Streamlit Community Cloud
-
----
-
-## 🤝 Contributing
-
-Contributions are welcome!
-
-1. Fork the repository
-2. Create a new branch (`git checkout -b feature/your-feature`)
-3. Commit your changes (`git commit -m "Add your feature"`)
-4. Push to the branch (`git push origin feature/your-feature`)
-5. Open a Pull Request
-
----
-
-## 📄 License
-
-This project is licensed under the [MIT License](LICENSE).
-
----
-
-## 🙋 Author
-
-**Your Name**
-📧 your.email@example.com
-🔗 [LinkedIn](https://linkedin.com) | [GitHub](https://github.com/your-username)
